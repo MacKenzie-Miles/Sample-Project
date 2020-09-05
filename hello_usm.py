@@ -1,1 +1,1 @@
-print("Hello USM!")
+print("Southern Miss To the Top!")
